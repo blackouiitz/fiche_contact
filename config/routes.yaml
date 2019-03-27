@@ -1,3 +1,3 @@
 formulaire:
-    path: /formulaire
+    path: /
     controller: App\Controller\FormController::new
